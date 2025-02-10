@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is f1.txt of b2 
+=======
+this is f1.txt of b2
+>>>>>>> dacfa7e62018ec8e502a8e9cec60230d43234a99
